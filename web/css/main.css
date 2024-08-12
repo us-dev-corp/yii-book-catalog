@@ -1,0 +1,6 @@
+.dropdown-menu.dark {
+    background-color: #41444a !important;
+}
+.dropdown-menu.dark .dropdown-header {
+    color: #8a8d93;
+}
